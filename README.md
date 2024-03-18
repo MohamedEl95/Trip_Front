@@ -51,9 +51,7 @@ intermediary for multiple REST APIs.
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Perspectives</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -143,7 +141,7 @@ Vite requires Node.js version >=14.18.0, so please ensure to have Node version g
 
 <p>* Vite: ite is a JS bundler. Vite takes your React JSX code and transforms it into raw HTML, CSS, and JS files that can be run by most browsers. Those files are then hosted and served to end users.</p>
 
-<p>* React</p>
+<p>* React: React is a JavaScript library for building user interfaces (UI)</p>
 
 
 ### Installation
@@ -221,15 +219,13 @@ You can access to the link above to be able to consult your reservations (Create
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+- [Done] Add Changelog
+- [Done] Add back to top links
+- [Done] Create needed pages
+- [In Progress] Integrate all pages with Backend
+- [Done] Multi-language Support in the application
+- [Done] Unit test implementation
+- [Done but need enhancement 'Time constraint] Integrate Dockerization and SonarQube
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -264,25 +260,6 @@ Distributed under the MIT License. Developed to External Client on behalf of CoC
 Firas Trabelsi - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
