@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="src/assets/trip.png" alt="Logo" width="80" height="80">
+    <img src="src/assets/trip.PNG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">TRIP-APPLICATION</h3>
@@ -202,16 +202,16 @@ You can follow this link to be able to create new account as client in the agenc
 
 3. List of reservations: http://localhost:8080/agency
 You can access to this page if you logged as an agent from the company to consult the list of travel file for all clients.<br/>
-<img src="src/assets/AgencyReservation.png" height="400px" width="800px">
+<img src="src/assets/AgencyReservation.PNG" height="400px" width="800px">
 
 4. Create new file: http://localhost:8080/client/book
 You can access to the link above to be able as client to consult list of hotels/flights and create new file for travel or hosting.</br>
-<img src="src/assets/CreateFile.png" height="400px" width="800px"><br/>
-<img src="src/assets/Step3.png" height="400px" width="800px">
+<img src="src/assets/CreateFile.PNG" height="400px" width="800px"><br/>
+<img src="src/assets/Step3.PNG" height="400px" width="800px">
 
 5. Find my reservations: http://localhost:8080/client/home
 You can access to the link above to be able to consult your reservations (Created Files containing flights/hotels)</br>
-<img src="src/assets/MyReservations.png" height="400px" width="800px"><br/>
+<img src="src/assets/MyReservations.PNG" height="400px" width="800px"><br/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
